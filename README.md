@@ -1,3 +1,3 @@
 # First-try
-learn to use github'/n'
+learn to use github.
 I like girls!
